@@ -17,6 +17,6 @@ location.getLocation();
  var locate = location.getLocation();
  console.log(locate);
  console.log('Your City is ' + locate.city + ' ' + locate.country);
- console.log('Your Log and Lati is ' + locate.loc);
+
  
 
